@@ -1,0 +1,23 @@
+/* Global styles */
+body {
+    background-color: #f0f0f0; /* Light grey background */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+    max-width: 400px; /* Limiting container width for better form alignment */
+    background-color: #fff; /* White background for form container */
+    padding: 20px;
+    border-radius: 8px; /* Rounded corners for form container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a slight elevation effect */
+}
+
+/* Form styles */
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    width: 100%; /* Full width button */
+}
